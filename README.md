@@ -25,6 +25,7 @@ I build fast, clean web apps and practical tools — currently focused on React 
 ### 📄 [GlassPDF Studio](https://github.com/ToheedJutt/glasspdfstudio)
 A complete PDF utility suite that runs 100% on your own machine — merge, split, compress, convert, watermark, protect and edit PDFs from a frosted-glass web dashboard. Flask backend, PyMuPDF/pypdf engines, LibreOffice-powered Office conversion, email-verified accounts.
 **🌐 Website:** [toheedjutt.github.io/glasspdfstudio](https://toheedjutt.github.io/glasspdfstudio/)
+**▶️ Live demo:** [glasspdfstudio.onrender.com](https://glasspdfstudio.onrender.com/)
 
 ## GitHub stats
 
